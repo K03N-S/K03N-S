@@ -95,7 +95,7 @@ Relevant coursework: *Enterprise Networking, Python, Java, Ethics and Standards,
 I'm open to internship opportunities, project collaborations, and conversations about infrastructure and distributed systems.
 
 - 📧 [Email](mailto:koen.stangherlin@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/koen-stangherlin-910520411/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/koen-stangherlin/)
 
 ---
 
