@@ -1,10 +1,11 @@
+```
 ╭──────────────────────────────────────────────────────────────────╮
 │ ┤ k03n@192.168.0.2 ├─────────────────────────────────────────────│
 │   role    student                			                           │
 │   study   undergraduate · computer science                       │
 │   based   moreton bay, australia                                 │
 ╰──────────────────────────────────────────────────────────────────╯
-
+```
 # Hi, I'm Koen S
 
 Undergraduate student interested in DevOps, infrastructure, and the systems that keep software running at scale. I learn best by building things — so I build things.
@@ -22,14 +23,14 @@ Outside of coursework I run a self-hosted homelab cluster that I use as a hands-
 ---
 
 ## Featured Project
-
+```
 ╔██████╗██╗  ██╗██████╗  ██████╗ ███╗   ███╗███████╗
 ██╔════╝██║  ██║██╔══██╗██╔═══██╗████╗ ████║██╔════╝
 ██║     ███████║██████╔╝██║   ██║██╔████╔██║█████╗  
 ██║     ██╔══██║██╔══██╗██║   ██║██║╚██╔╝██║██╔══╝  
 ╚██████╗██║  ██║██║  ██║╚██████╔╝██║ ╚═╝ ██║███████╗
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
-
+```
 ### ChromeCluster — Homelab Kubernetes on Repurposed Hardware
 
 A production-grade K3S cluster built on 5 refurbished Chromeboxes running Ubuntu Server after a custom firmware flash. Hosts a full self-hosted stack.
@@ -43,7 +44,7 @@ A production-grade K3S cluster built on 5 refurbished Chromeboxes running Ubuntu
 | Git hosting | Gitea |
 | AI inference | Ollama + Open WebUI |
 
-→ [View the full project writeup](https://github.com/yourusername/chromecluster)
+→ [View the full project writeup](https://github.com/K03N-S/theblock)
 
 ---
 
